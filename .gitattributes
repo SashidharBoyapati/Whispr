@@ -1,0 +1,12 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Force LF endings for certain files (optional but recommended)
+*.sh text eol=lf
+*.java text eol=lf
+*.xml text eol=lf
+*.properties text eol=lf
+*.gitattributes text eol=lf
